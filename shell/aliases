@@ -1,0 +1,8 @@
+alias ls='ls -CF --color=auto'
+alias ll='ls -alhF'
+alias la='ls -A'
+alias grep='grep --color=auto'
+alias term='nohup gnome-terminal > /dev/null 2>&1 &'
+alias ww='nohup nautilus . > /dev/null 2>&1 &'
+alias t='tree -CalFL 1 --dirsfirst'
+

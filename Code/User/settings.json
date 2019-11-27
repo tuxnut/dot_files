@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Monokai",
+    "vscode_custom_css.imports": [
+        "file:///home/thierry/.vscode/extensions/robbowen.synthwave-vscode-0.0.7/synthwave84.css"
+        ],
+        "vsicons.dontShowNewVersionMessage": true
+}

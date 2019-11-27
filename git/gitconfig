@@ -1,0 +1,9 @@
+[user]
+	name = tuxnut
+	email = tuxnut.cat@gmail.com
+[alias]
+	lg = log --all --decorate --graph --oneline
+	unstage = reset HEAD
+	st = status -s -unormal
+	br = branch
+	co = checkout
